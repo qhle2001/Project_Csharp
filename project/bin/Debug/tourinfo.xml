@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<Datainfo>
+	<Nametour ID="1021">
+		<diemden>SaPa</diemden>
+		<ten>Tour Sapa 3N2Đ: Moana - Fansipan - Bản Cát Cát</ten>
+		<image>1021//1.jpg</image>
+		<lichtrinh>Hà Nội - Sapa - Bản Cát Cát</lichtrinh>
+		<khoihanh>Thứ 6 hàng tuần</khoihanh>
+		<thoigian>3N2Đ</thoigian>
+		<giatien>2.990.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1022">
+		<diemden>Kiên Giang</diemden>
+		<ten>Du lịch Tết Âm lịch - Tour Du lịch Phú Quốc từ Sài Gòn 2023</ten>
+		<image>1022//1.jpg</image>
+		<lichtrinh>Phú Quốc - Grand World- Checkin Dòng Sông Venice - Vinwonders - Safari - Trải Nghiệm Cáp </lichtrinh>
+		<khoihanh>Ngày 21/1/2023</khoihanh>
+		<thoigian>3N2Đ</thoigian>
+		<giatien>5.000.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1023">
+		<diemden>Khánh Hòa</diemden>
+		<ten>Du lịch Nha Trang - Tour Du Ngoạn 4 Đảo từ Sài Gòn</ten>
+		<image>1023//1.jpg</image>
+		<lichtrinh>Nha Trang - Du Ngoạn 4 Đảo - Vinpearl Land - Tháp Bà Ponagar - Nhà Thờ Đá</lichtrinh>
+		<khoihanh>Thứ 2, thứ 4, thứ 6 hàng tuần</khoihanh>
+		<thoigian>4N3Đ</thoigian>
+		<giatien>3.990.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1024">
+		<diemden>Đà Nẵng</diemden>
+		<ten>Du lịch Miền Trung Tour Đà Nẵng - Bà Nà - Hội An - Ngũ Hành Sơn từ Sài Gòn 2023</ten>
+		<image>1024//1.jpg</image>
+		<lichtrinh>Đà Nẵng - Bà Nà - Sơn Trà - Ngũ Hành Sơn - Phố Cổ Hội An</lichtrinh>
+		<khoihanh>Thứ 7 hàng tuần</khoihanh>
+		<thoigian>3N2Đ</thoigian>
+		<giatien>2.990.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1025">
+		<diemden>Lâm Đồng</diemden>
+		<ten>Du lịch Tết Quý Mão Tour Du lịch Đà Lạt - Thiền Viện Trúc Lâm - Đồi Chè Cầu Đất từ Sài Gòn 2023</ten>
+		<image>1025//1.jpg</image>
+		<lichtrinh>Đà Lạt View - Thiền Viện Trúc Lâm - Đồi Chè Cầu Đất - Nhà Thờ Don Bosco</lichtrinh>
+		<khoihanh>Ngày 22/1/2023</khoihanh>
+		<thoigian>3N2Đ</thoigian>
+		<giatien>5.000.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1026">
+		<diemden>Quảng Ninh</diemden>
+		<ten>Du lịch Tết Âm lịch - Tour Du lịch Hà Nội - Vịnh Hạ Long - Ninh Binh từ Sài Gòn 2023</ten>
+		<image>1026//1.jpg</image>
+		<lichtrinh>Vịnh Hạ Long - Chùa Tam Chúc - Ninh Bình - Chùa Bái Đính - Tràng An</lichtrinh>
+		<khoihanh>Ngày 22/1/2023</khoihanh>
+		<thoigian>4N3Đ</thoigian>
+		<giatien>5.990.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1027">
+		<diemden>Bình Định</diemden>
+		<ten>Du lịch Lễ 2/9 - Tour Du lịch Quy Nhơn - Phú Yên từ Sài Gòn</ten>
+		<image>1027//1.jpg</image>
+		<lichtrinh>KDL Hầm Hô - FLC Resort/Safari FLC - Eo Gió - Kỳ Co - Gành Đá Dĩa - Bãi Xép</lichtrinh>
+		<khoihanh>Ngày 2/9 hàng năm</khoihanh>
+		<thoigian>4N3Đ</thoigian>
+		<giatien>4.990.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1028">
+		<diemden>Tiền Giang</diemden>
+		<ten>Du lịch Tết Âm lịch Tour Du lịch Miền Tây Mỹ Tho - Cần Thơ - Châu Đốc từ Sài Gòn 2023</ten>
+		<image>1028//1.jpg</image>
+		<lichtrinh>Mỹ Tho - Cần Thơ - Châu Đốc - Rừng Tràm Trà Sư</lichtrinh>
+		<khoihanh>Thứ 3, thứ 5, thứ 7 hàng tuần</khoihanh>
+		<thoigian>3N2Đ</thoigian>
+		<giatien>5.990.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1029">
+		<diemden>Vũng Tàu</diemden>
+		<ten>Du lịch Côn Đảo 3N2Đ từ Sài Gòn</ten>
+		<image>1029//1.jpg</image>
+		<lichtrinh>Hoang Sơ - Côn Đảo</lichtrinh>
+		<khoihanh>Thứ 2 hàng tuần</khoihanh>
+		<thoigian>3N2Đ</thoigian>
+		<giatien>2.990.000đ</giatien>
+	</Nametour>
+	<Nametour ID="1030">
+		<diemden>Sơn La</diemden>
+		<ten>Du lịch Tây Bắc Hà Nội - Mộc Châu - Cầu Kính Bạch Long - Sơn La từ Sài Gòn 2023</ten>
+		<image>1030//1.jpg</image>
+		<lichtrinh>Hà Nội - Mộc Châu - Cầu Kính Bạch Long - Sơn La - Điện Biên - Sapa - Đền Hùng</lichtrinh>
+		<khoihanh>Thứ 3, thứ 7 hàng tuần</khoihanh>
+		<thoigian>6N5Đ</thoigian>
+		<giatien>8.990.000đ</giatien>
+	</Nametour>
+</Datainfo>
